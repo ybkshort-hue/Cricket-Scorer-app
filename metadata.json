@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Scorer",
+  "description": "एक संपूर्ण पेशेवर क्रिकेट स्कोरिंग ऐप हिंदी में",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
